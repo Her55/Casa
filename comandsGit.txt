@@ -1,0 +1,3 @@
+conectar a github:
+	-git reomte add origin "direccion de github"
+	-git push -u origin master
