@@ -9,4 +9,4 @@ Configurar git
 pasar archivos al server (github)
 	-git add (archivo) 					// lo pasa al stage
 	-git commit -m "descripcion de la actualizacion" 	// comprometerse a actualizar	
-	-git push -u origin (archivo //subir archivos al servidor	// 
+	-git push -u origin (rama)				 //subir archivos a la rama seleccionada
