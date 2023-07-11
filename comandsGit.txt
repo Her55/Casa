@@ -10,3 +10,14 @@ pasar archivos al server (github)
 	-git add (archivo) 					// lo pasa al stage
 	-git commit -m "descripcion de la actualizacion" 	// comprometerse a actualizar	
 	-git push -u origin (rama)				 //subir archivos a la rama seleccionada
+
+Comandos
+	-pwd			//
+	-git ls 		//lista los archivos del directorio
+	-git status		//estado de los archivos
+	-cls			//limpia la consola
+
+ramas
+	-git branch 		// visualizar las ramas
+	-git switch (rama)	// pasar a otra rama
+	-git switch -c (rama) 	// -c crear rama y pasar a ella
