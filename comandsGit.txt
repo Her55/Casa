@@ -1,3 +1,6 @@
 conectar a github:
 	-git reomte add origin "direccion de github"
 	-git push -u origin master
+Configurar git
+	-git config user.name "mi nombre"
+	.git config user.email "mi email"
